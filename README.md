@@ -1,6 +1,8 @@
 # Bias as a Feature for Generative AI Detection
 This project investigates whether bias-related content features can improve the detection of AI-generated text beyond traditional stylometric baselines, and how these two feature families fail and succeed under different conditions.
 
+The main paper (Bias as a feature for generative AI detection.pdf) is currently still in its draft form and has not yet been submitted!
+
 Overview
 - 1_individual_features.ipynb and .pdf: Code used during the development of the individual features. Shows the actual measurements for the differences between Human and AI for each feature.
 - 2_running_models.ipynb and .pdf: Code that executes the baseline model (lightweight stylometric features), bias model (bias-related content-level features) and merged model.
